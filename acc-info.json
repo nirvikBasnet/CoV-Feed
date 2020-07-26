@@ -1,0 +1,9 @@
+{
+    "name": "CoV-Feed",
+    "version": "0.1.0",
+    "description": "IOS App which provides latest news and updates about the Covid-19.",
+    "author": "Nirvik Basnet",
+    "author_uri": "https://github.com/nirvikBasnet",
+    "repository_uri": "https://github.com/nirvikBasnet/CoV-Feed",
+    "tags": ["code challenge"]
+  }
